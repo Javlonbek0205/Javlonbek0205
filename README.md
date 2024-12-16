@@ -50,4 +50,4 @@ I'm interested in Backend development with **Python** and **Django** and current
 
 ---
 
-**🔍 Fun Fact:** Did you know the first computer virus was created in 1986? 😄
+**🔍 Fun Fact:** Did you know the first computer virus was created in 1986? 🦾
