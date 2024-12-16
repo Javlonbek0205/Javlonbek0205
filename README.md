@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Javlonbek!
 
-<!--
-**Javlonbek0205/Javlonbek0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A passionate Backend Developer and Learner 🧑‍💻
 
-Here are some ideas to get you started:
+I'm interested in Backend development with **Python** and **Django** and currently working on improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 **Currently Learning**
+- **Django** - Backend Development
+- **Full Stack Python** (Ongoing Online Course)
+- Building projects to enhance real-world experience
+
+---
+
+### 🛠️ **Languages and Tools**
+- **Languages:** Python, HTML, CSS
+- **Frameworks:** Django
+- **Tools & Platforms:** Git, GitHub, PostgreSQL, SQLite, VS Code, PyCharm
+
+---
+
+### 🚀 **Skills**
+- Backend Development using **Django**
+- Database management (PostgreSQL & SQLite)
+- RESTful APIs development
+
+---
+
+### 🎯 **Goals**
+- Become a Full Stack Python Developer
+- Build innovative and practical web applications
+- Contribute to open-source projects
+
+---
+
+### 🌐 **Let's Connect**
+- Telegram: [Your Telegram Link](https://t.me/JavlonbekDeveloper1)
+- GitHub: [Your GitHub Profile](https://github.com/Javlonbek0205)
+- Email: javlonbekdeveloper7@gmail.com
+
+---
+
+### 📊 **GitHub Stats**
+![Javlonbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javlonbek0205&show_icons=true&theme=tokyonight)
+
+---
+
+**🔍 Fun Fact:** Did you know the first computer virus was created in 1986? 😄
