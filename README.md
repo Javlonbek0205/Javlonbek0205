@@ -35,11 +35,15 @@ I'm interested in Backend development with **Python** and **Django** and current
 ---
 
 ### 🌐 **Let's Connect**
-- Telegram: [Your Telegram Link](https://t.me/JavlonbekDeveloper1)
-- GitHub: [Your GitHub Profile](https://github.com/Javlonbek0205)
+- Telegram: [Telegram](https://t.me/JavlonbekDeveloper1)
+- GitHub: [GitHub](https://github.com/Javlonbek0205)
 - Email: javlonbekdeveloper7@gmail.com
 
 ---
+### 🔝 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javlonbek0205&layout=compact&theme=tokyonight)
+
 
 ### 📊 **GitHub Stats**
 ![Javlonbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javlonbek0205&show_icons=true&theme=tokyonight)
