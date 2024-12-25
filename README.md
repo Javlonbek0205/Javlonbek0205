@@ -55,8 +55,11 @@
 <hr />
 
 <div align="center">
-    <h2>✨ Coding Activity Stats ✨</h2>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight" alt="WakaTime Stats" />
+    <h2>🐍 GitHub Snake 🐍</h2>
+    <br />
+    <p>
+        <img src="https://github.com/Javlonbek0205/Javlonbek0205/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+    </p>
 </div>
 
 
