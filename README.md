@@ -55,11 +55,11 @@
 <hr />
 
 <div align="center">
-    <h2>🐍 GitHub Snake 🐍</h2>
+    <h2>📈 GitHub Contribution Graph 📈</h2>
     <br />
-    <p>
-        <img width="1000" src="assets/github-snake.svg" alt="snake" />
-    </p>
+    <a href="https://github.com/Javlonbek0205">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Javlonbek0205&bg_color=1a1b27&color=9ecaed&line=9ecaed&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+    </a>
 </div>
 
 <hr />
