@@ -55,12 +55,10 @@
 <hr />
 
 <div align="center">
-    <h2>📈 GitHub Contribution Graph 📈</h2>
-    <br />
-    <a href="https://github.com/Javlonbek0205">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Javlonbek0205&bg_color=1a1b27&color=9ecaed&line=9ecaed&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-    </a>
+    <h2>✨ Coding Activity Stats ✨</h2>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight" alt="WakaTime Stats" />
 </div>
+
 
 <hr />
 
