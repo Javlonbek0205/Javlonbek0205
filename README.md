@@ -5,10 +5,10 @@
     <img height="150" style="border-radius: 10px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 </h1>
 
-<h3 align="center">A Passionate Backend Developer and Learner 🧑‍💻</h3>
+<h3 align="center">A Enthusiastic Backend Developer and Learner 🧑‍💻</h3>
 <br />
 <div align="center">
-    ⚡ Hello, I am a Backend developer specializing in **Django** and **Python**. Currently, I am working on enhancing my real-world project experience and expanding my skill set. Let's connect and create impactful web applications together! You can reach me via:
+    ⚡ ⚡ Hello, I am a Backend developer specializing in Django and Python. Currently, I am working on enhancing my real-world project experience and expanding my skill set. Let's connect and create impactful web applications together! You can reach me via:
     <br />
     <a href="mailto:javlonbekdeveloper7@gmail.com">javlonbekdeveloper7@gmail.com</a>
 </div>
