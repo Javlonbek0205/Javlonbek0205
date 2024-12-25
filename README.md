@@ -24,6 +24,9 @@
     <a href="https://github.com/Javlonbek0205" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="in/javlonbek-maxmudov-a346882ab" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
 
 <hr />
@@ -52,16 +55,6 @@
 </div>
 
 <br />
-<hr />
-
-<div align="center">
-    <h2>🐍 GitHub Snake 🐍</h2>
-    <br />
-    <p>
-        <img src="https://github.com/Javlonbek0205/Javlonbek0205/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-    </p>
-</div>
-
 
 <hr />
 
