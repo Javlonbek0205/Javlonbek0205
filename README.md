@@ -57,7 +57,7 @@
 <hr />
 <div align="center">
   <h2 align="center">My Development Roadmap</h2>
-  <a href="https://roadmap.sh/u/javlonbek" target = "_blank">
+  <a href="https://roadmap.sh/card/wide/676d4ba170129741a855e95c?variant=dark" target = "_blank">
      <img align="center" src="https://roadmap.sh/card/wide/676d4ba170129741a855e95c?variant=dark" alt="roadmap.sh"/></a>
   <p>For more details, visit <a href="https://roadmap.sh/u/javlonbek" target= "_blank" >Javlonbek_Roadmap</a>.</p>
 </div>
