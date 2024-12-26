@@ -53,8 +53,13 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Javlonbek0205&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </p>
 </div>
-
 <br />
+<h2>My Development Roadmap</h2>
+<p>Check out my roadmap for backend development with Django and DRF!</p>
+<a href="https://roadmap.sh">
+  <img src="https://roadmap.sh/card/wide/676d4ba170129741a855e95c?variant=dark" alt="Backend Development Roadmap"/>
+</a>
+<p>For more details, visit <a href="https://roadmap.sh">roadmap.sh</a>.</p>
 
 <hr />
 
