@@ -57,10 +57,11 @@
 <hr />
 <div style="text-align: center;">
   <h2>My Development Roadmap</h2>
-  <p>Check out my roadmap for backend development with Django and DRF!</p>
+  <p align="center">
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/wide/676d4ba170129741a855e95c?variant=dark" alt="Backend Development Roadmap"/>
+    <img src="https://roadmap.sh/card/wide/676d4ba170129741a855e95c?variant=dark" alt="roadmap.sh"/>
   </a>
+</p>
   <p>For more details, visit <a href="https://roadmap.sh">roadmap.sh</a>.</p>
 </div>
 
